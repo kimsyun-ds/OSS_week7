@@ -14,17 +14,20 @@ File handling:
 Generate project report (.txt)
 Export issues as CSV (.csv)
 Identify urgent issues (Critical / High)
+
 🛠️ Technologies
 Python
 Built-in data structures (list, tuple, set, dictionary)
 File I/O
 OS module
+
 📂 Output
 
 The program automatically creates:
 
 project_report.txt → full project summary
 issues.csv → structured issue data
+
 🚀 How to Run
 python main.py
 
@@ -32,6 +35,7 @@ Then follow the prompts to input:
 
 Contributors (4 entries)
 Issues (5 entries)
+
 🎯 Purpose
 
 This project demonstrates practical usage of Python data structures and file handling in a real-world scenario.
